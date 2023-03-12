@@ -1,4 +1,12 @@
-### Hi there 👋
+
+
+### hey hey! 👋  
+
+i'm anthony. i'm a full-stack developer, and a huge mariners fan. 
+
+you can find me at https://cityinspain.dev
+
+i'm currently working on some neat projects in the realm of baseball data.
 
 <!--
 **cityinspain/cityinspain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
