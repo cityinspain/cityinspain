@@ -2,7 +2,7 @@
 
 ### hey hey! 👋  
 
-i'm anthony. i'm a full-stack developer, and a huge mariners fan. 
+i'm olive. i'm a full-stack developer, and a huge mariners fan. 
 
 you can find me at https://cityinspain.dev
 
